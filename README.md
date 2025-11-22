@@ -55,11 +55,12 @@ Through this project, I strengthened skills in:
    ```bash
    git clone https://github.com/MOO242/IBM-Data-Science-Professional-Certificate-Capstone.git
    ```  
-
+## 🎓 Certifications
+[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/MDIJNK6ZMRVL)-
+  
 ## 🎯 About Me  
 I’m Mohamed — a self‑taught **Data Scientist & Analyst** with expertise in Python, SQL, and modular workflows.  
 I completed the **IBM Data Science Professional Certificate** and am actively building recruiter‑ready projects that demonstrate real‑world impact.  
 
-## 🎓 Certifications
-- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/MDIJNK6ZMRVL)- 
+
 
