@@ -60,3 +60,6 @@ Through this project, I strengthened skills in:
 I’m Mohamed — a self‑taught **Data Scientist & Analyst** with expertise in Python, SQL, and modular workflows.  
 I completed the **IBM Data Science Professional Certificate** and am actively building recruiter‑ready projects that demonstrate real‑world impact.  
 
+## 🎓 Certifications
+- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/MDIJNK6ZMRVL)
+
