@@ -61,5 +61,6 @@ I’m Mohamed — a self‑taught **Data Scientist & Analyst** with expertise in
 I completed the **IBM Data Science Professional Certificate** and am actively building recruiter‑ready projects that demonstrate real‑world impact.  
 
 ## 🎓 Certifications
-- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/MDIJNK6ZMRVL)
+- [IBM Data Science Professional Certificate]([https://www.coursera.org/account/accomplishments/professional-cert/MDIJNK6ZMRVL](https://coursera.org/share/31ec4ee5b53c9d0435bff16aece681d9))
+- 
 
